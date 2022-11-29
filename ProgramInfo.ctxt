@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ProgramInfo
+comment0.text=\n\ Programmer\:\ \ \ \ Naga\ Assefa\n\ Class\:\ CS30S\n\n\ Assignment\:\ ProgramInfo\n\n\ Description\:\ program\ information\ class\ to\ print\n\ \ banner\ and\ closing\ message\n
+comment1.params=a
+comment1.target=ProgramInfo(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getBanner()
+comment2.text=\n\ Description\:\ brief\ description\ of\ the\ methods\ purpose\n\ \n\ Interface\:\n\ \n\ @param\ \ \ \ \ \ \ \ each\ parameter\ of\ the\ method\ should\ be\ listed\ with\ an\ @param\n\ @param\ \ \ \ \ \ \ \ parametername\ description\ of\ parameter\n\ \n\ @return\ \ \ \ \ \ \ any\ return\ value\ will\ be\ noted\ here\n***************************************
+comment3.params=
+comment3.target=java.lang.String\ getClMes()
+comment3.text=\n\ Description\:\ create\ and\ return\ a\ string\ for\ the\ closing\ message\n\ \n\ Interface\:\n\ \n\ @return\ closingMessage\ \ string\ containing\ the\ closing\ message\n***************************************
+numComments=4

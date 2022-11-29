@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Teams
+comment0.text=\n\ Programmer\:\ Naga\ Assefa\n\ Class\:\ \ CS30S\n\n\ Assignment\:\ April\ Exam\ question\ 3\ \n\n\ Description\:\ This\ the\ class\ for\ the\ Teams\ in\ a\ sports\ legue\n
+comment1.params=
+comment1.target=Teams()
+comment2.params=n
+comment2.target=Teams(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\n\ Description\:\ This\ method\ gets\ the\ name\ of\ the\ Team\n\ \n\ Interface\:\n\ \n\ @return\ String\:\ name\ of\ team\n***************************************
+comment4.params=
+comment4.target=java.util.ArrayList\ getPlayers()
+comment4.text=\n\ Description\:\ This\ method\ gets\ the\ name\ of\ the\ players\n\ \n\ Interface\:\n\ \n\ @return\ \ Araylist<Players>\:\ get\ the\ players\ on\ the\ team\n***************************************
+comment5.params=n
+comment5.target=void\ setName(java.lang.String)
+comment5.text=\n\ Description\:\ set\ the\ name\ of\ the\ team\n\ \n\ Interface\:\n\ \n\ @param\ \ \ \ \ \ \ \ String\ new\ name\ for\ the\ team\n***************************************
+comment6.params=p
+comment6.target=void\ addPlayers(Players)
+comment6.text=\n\ Description\:\ add\ players\ to\ the\ team\n\ \n\ Interface\:\n\ \n\ @param\ \ \ \ \ \ \ \ Players\ add\ players\ to\ the\ team\n***************************************
+comment7.params=p
+comment7.target=void\ removePlayer(Players)
+comment7.text=\n\ Description\:\ remove\ a\ player\ from\ the\ team\n\ \n\ Interface\:\n\ \n\ @param\ \ \ \ \ \ \ \ Players\ remove\ players\ from\ a\ team\n***************************************
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ Description\:\ return\ state\ details\ about\ the\ Team\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ uses\ StringBuilder\ to\ construct\ the\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ record\ then\ return\ the\ toString\ of\ the\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ StringBuilder\ object\n\ \n\ @param\ \ \ \ \ \ \ toString()\ of\ Team\n***************************************
+numComments=9
